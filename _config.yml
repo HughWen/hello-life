@@ -1,8 +1,8 @@
 # Site settings
-title: Hanuman
-description: Hanuman is a minimal yet powerful Jekyll theme for your blogs and websites.
+title: Hello Life
+description: Say Hello to our life!
 cover: assets/images/radhakrishna.jpg
-logo: assets/images/logo.png
+# logo: assets/images/logo.png
 favicon: assets/images/favicon.png
 baseurl: "/hello-life/" # the subpath of your site, e.g. /blog/ or / for root
 url: "https://hughwen.github.io" # the base hostname & protocol for your site
