@@ -3,7 +3,7 @@ title: Hello Life
 description: Say Hello to our life!
 cover: assets/images/radhakrishna.jpg
 # logo: assets/images/logo.png
-favicon: assets/images/favicon.png
+favicon: assets/images/panda.jpg
 baseurl: "/hello-life/" # the subpath of your site, e.g. /blog/ or / for root
 url: "https://hughwen.github.io" # the base hostname & protocol for your site
 paginate:	5 # The number of posts to show per page on your homepage
